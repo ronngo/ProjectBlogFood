@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MzdDNn/eiEfNL7fOVqW2RlVGmEED3hVRbXumPMQ7jaKiHv6Bq1NMzxD+ksSsmYjvolYk6tH0L3udeK0FPw467A==",
+  "success": true,
+  "projectFilePath": "E:\\ODERFOODAPI\\ORDERFOOD.Domian\\ORDERFOOD.Domian.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+E:\ODERFOODAPI\ORDERFOOD.BAL.Interface\bin\Debug\netstandard2.0\ORDERFOOD.BAL.Interface.deps.json
+E:\ODERFOODAPI\ORDERFOOD.BAL.Interface\bin\Debug\netstandard2.0\ORDERFOOD.BAL.Interface.dll
+E:\ODERFOODAPI\ORDERFOOD.BAL.Interface\bin\Debug\netstandard2.0\ORDERFOOD.BAL.Interface.pdb
+E:\ODERFOODAPI\ORDERFOOD.BAL.Interface\bin\Debug\netstandard2.0\ORDERFOOD.Domian.dll
+E:\ODERFOODAPI\ORDERFOOD.BAL.Interface\bin\Debug\netstandard2.0\ORDERFOOD.Domian.pdb
+E:\ODERFOODAPI\ORDERFOOD.BAL.Interface\obj\Debug\netstandard2.0\ORDERFOOD.BAL.Interface.csprojAssemblyReference.cache
+E:\ODERFOODAPI\ORDERFOOD.BAL.Interface\obj\Debug\netstandard2.0\ORDERFOOD.BAL.Interface.AssemblyInfoInputs.cache
+E:\ODERFOODAPI\ORDERFOOD.BAL.Interface\obj\Debug\netstandard2.0\ORDERFOOD.BAL.Interface.AssemblyInfo.cs
+E:\ODERFOODAPI\ORDERFOOD.BAL.Interface\obj\Debug\netstandard2.0\ORDERFOOD.BAL.Interface.csproj.CoreCompileInputs.cache
+E:\ODERFOODAPI\ORDERFOOD.BAL.Interface\obj\Debug\netstandard2.0\ORDERFOOD.BAL.Interface.csproj.CopyComplete
+E:\ODERFOODAPI\ORDERFOOD.BAL.Interface\obj\Debug\netstandard2.0\ORDERFOOD.BAL.Interface.dll
+E:\ODERFOODAPI\ORDERFOOD.BAL.Interface\obj\Debug\netstandard2.0\ORDERFOOD.BAL.Interface.pdb

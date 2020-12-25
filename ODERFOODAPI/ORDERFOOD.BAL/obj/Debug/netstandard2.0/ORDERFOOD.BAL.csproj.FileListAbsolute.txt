@@ -1,0 +1,16 @@
+E:\ODERFOODAPI\ORDERFOOD.BAL\bin\Debug\netstandard2.0\ORDERFOOD.BAL.deps.json
+E:\ODERFOODAPI\ORDERFOOD.BAL\bin\Debug\netstandard2.0\ORDERFOOD.BAL.dll
+E:\ODERFOODAPI\ORDERFOOD.BAL\bin\Debug\netstandard2.0\ORDERFOOD.BAL.pdb
+E:\ODERFOODAPI\ORDERFOOD.BAL\bin\Debug\netstandard2.0\ORDERFOOD.BAL.Interface.dll
+E:\ODERFOODAPI\ORDERFOOD.BAL\bin\Debug\netstandard2.0\ORDERFOOD.DAL.Interface.dll
+E:\ODERFOODAPI\ORDERFOOD.BAL\bin\Debug\netstandard2.0\ORDERFOOD.Domian.dll
+E:\ODERFOODAPI\ORDERFOOD.BAL\bin\Debug\netstandard2.0\ORDERFOOD.BAL.Interface.pdb
+E:\ODERFOODAPI\ORDERFOOD.BAL\bin\Debug\netstandard2.0\ORDERFOOD.DAL.Interface.pdb
+E:\ODERFOODAPI\ORDERFOOD.BAL\bin\Debug\netstandard2.0\ORDERFOOD.Domian.pdb
+E:\ODERFOODAPI\ORDERFOOD.BAL\obj\Debug\netstandard2.0\ORDERFOOD.BAL.csprojAssemblyReference.cache
+E:\ODERFOODAPI\ORDERFOOD.BAL\obj\Debug\netstandard2.0\ORDERFOOD.BAL.AssemblyInfoInputs.cache
+E:\ODERFOODAPI\ORDERFOOD.BAL\obj\Debug\netstandard2.0\ORDERFOOD.BAL.AssemblyInfo.cs
+E:\ODERFOODAPI\ORDERFOOD.BAL\obj\Debug\netstandard2.0\ORDERFOOD.BAL.csproj.CoreCompileInputs.cache
+E:\ODERFOODAPI\ORDERFOOD.BAL\obj\Debug\netstandard2.0\ORDERFOOD.BAL.csproj.CopyComplete
+E:\ODERFOODAPI\ORDERFOOD.BAL\obj\Debug\netstandard2.0\ORDERFOOD.BAL.dll
+E:\ODERFOODAPI\ORDERFOOD.BAL\obj\Debug\netstandard2.0\ORDERFOOD.BAL.pdb

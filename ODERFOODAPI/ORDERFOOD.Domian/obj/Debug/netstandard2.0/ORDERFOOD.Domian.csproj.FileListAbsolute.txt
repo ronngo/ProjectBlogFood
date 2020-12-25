@@ -1,0 +1,9 @@
+E:\ODERFOODAPI\ORDERFOOD.Domian\bin\Debug\netstandard2.0\ORDERFOOD.Domian.deps.json
+E:\ODERFOODAPI\ORDERFOOD.Domian\bin\Debug\netstandard2.0\ORDERFOOD.Domian.dll
+E:\ODERFOODAPI\ORDERFOOD.Domian\bin\Debug\netstandard2.0\ORDERFOOD.Domian.pdb
+E:\ODERFOODAPI\ORDERFOOD.Domian\obj\Debug\netstandard2.0\ORDERFOOD.Domian.AssemblyInfoInputs.cache
+E:\ODERFOODAPI\ORDERFOOD.Domian\obj\Debug\netstandard2.0\ORDERFOOD.Domian.AssemblyInfo.cs
+E:\ODERFOODAPI\ORDERFOOD.Domian\obj\Debug\netstandard2.0\ORDERFOOD.Domian.csproj.CoreCompileInputs.cache
+E:\ODERFOODAPI\ORDERFOOD.Domian\obj\Debug\netstandard2.0\ORDERFOOD.Domian.dll
+E:\ODERFOODAPI\ORDERFOOD.Domian\obj\Debug\netstandard2.0\ORDERFOOD.Domian.pdb
+E:\ODERFOODAPI\ORDERFOOD.Domian\obj\Debug\netstandard2.0\ORDERFOOD.Domian.csprojAssemblyReference.cache

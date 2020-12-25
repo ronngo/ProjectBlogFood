@@ -1,0 +1,14 @@
+E:\ODERFOODAPI\ORDERFOOD.DAL\bin\Debug\netcoreapp3.1\ORDERFOOD.DAL.deps.json
+E:\ODERFOODAPI\ORDERFOOD.DAL\bin\Debug\netcoreapp3.1\ORDERFOOD.DAL.dll
+E:\ODERFOODAPI\ORDERFOOD.DAL\obj\Debug\netcoreapp3.1\ORDERFOOD.DAL.csprojAssemblyReference.cache
+E:\ODERFOODAPI\ORDERFOOD.DAL\obj\Debug\netcoreapp3.1\ORDERFOOD.DAL.AssemblyInfoInputs.cache
+E:\ODERFOODAPI\ORDERFOOD.DAL\obj\Debug\netcoreapp3.1\ORDERFOOD.DAL.AssemblyInfo.cs
+E:\ODERFOODAPI\ORDERFOOD.DAL\bin\Debug\netcoreapp3.1\ORDERFOOD.DAL.pdb
+E:\ODERFOODAPI\ORDERFOOD.DAL\bin\Debug\netcoreapp3.1\ORDERFOOD.DAL.Interface.dll
+E:\ODERFOODAPI\ORDERFOOD.DAL\bin\Debug\netcoreapp3.1\ORDERFOOD.Domian.dll
+E:\ODERFOODAPI\ORDERFOOD.DAL\bin\Debug\netcoreapp3.1\ORDERFOOD.DAL.Interface.pdb
+E:\ODERFOODAPI\ORDERFOOD.DAL\bin\Debug\netcoreapp3.1\ORDERFOOD.Domian.pdb
+E:\ODERFOODAPI\ORDERFOOD.DAL\obj\Debug\netcoreapp3.1\ORDERFOOD.DAL.csproj.CoreCompileInputs.cache
+E:\ODERFOODAPI\ORDERFOOD.DAL\obj\Debug\netcoreapp3.1\ORDERFOOD.DAL.csproj.CopyComplete
+E:\ODERFOODAPI\ORDERFOOD.DAL\obj\Debug\netcoreapp3.1\ORDERFOOD.DAL.dll
+E:\ODERFOODAPI\ORDERFOOD.DAL\obj\Debug\netcoreapp3.1\ORDERFOOD.DAL.pdb

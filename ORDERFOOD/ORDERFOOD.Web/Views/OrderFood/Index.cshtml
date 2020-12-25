@@ -1,0 +1,67 @@
+﻿@model List<OrderFood>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+    <a asp-controller="OrderFood" asp-action="create" class="btn btn-primary mb-2">Create</a>
+    <table id="myTable" class="table table-bordered">
+        <thead>
+            <tr>
+                <th>#Id</th>
+                <th>Food Name</th>
+                <th>Customer</th>
+                <th>Phone</th>
+                <th>Address</th>
+                <th>Price</th>
+                <th>Person</th>
+                <th>Actions</th>
+            </tr>
+
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @item.Id
+                    </td>
+                    <td>
+                        @item.FoodName
+                    </td>
+                    <td>
+                        @item.CustomerName
+                    </td>
+                    <td>
+                        @item.PhoneNumber
+                    </td>
+                    <td>
+                        @item.Address
+                    </td>
+                    <td>
+                        @item.Price
+                    </td>
+                    <td>
+                        @item.Person
+                    </td>
+                    <td>
+                        <div>
+                            <a asp-controller="OrderFood" asp-action="Update" class="btn btn-primary ">Update</a>
+                            <a asp-controller="OrderFood" asp-action="Delete" class="btn btn-danger">Delete</a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@section ScriptsValidate{
+    <script>
+        $(document).ready(function () {
+            $('#myTable').DataTable();
+
+        });
+
+    </script>
+}

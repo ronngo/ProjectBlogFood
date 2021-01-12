@@ -590,11 +590,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ODERFOODAPI\\ORDERFOOD.DAL\\ORDERFOOD.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Source\\Repos\\ProjectBlogFood\\ODERFOODAPI\\ORDERFOOD.DAL\\ORDERFOOD.DAL.csproj",
       "projectName": "ORDERFOOD.DAL",
-      "projectPath": "E:\\ODERFOODAPI\\ORDERFOOD.DAL\\ORDERFOOD.DAL.csproj",
+      "projectPath": "C:\\Users\\USER\\Source\\Repos\\ProjectBlogFood\\ODERFOODAPI\\ORDERFOOD.DAL\\ORDERFOOD.DAL.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "E:\\ODERFOODAPI\\ORDERFOOD.DAL\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Source\\Repos\\ProjectBlogFood\\ODERFOODAPI\\ORDERFOOD.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -609,9 +609,10 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\ODERFOODAPI\\ORDERFOOD.DAL.Interface\\ORDERFOOD.DAL.Interface.csproj": {
-              "projectPath": "E:\\ODERFOODAPI\\ORDERFOOD.DAL.Interface\\ORDERFOOD.DAL.Interface.csproj"
+            "C:\\Users\\USER\\Source\\Repos\\ProjectBlogFood\\ODERFOODAPI\\ORDERFOOD.DAL.Interface\\ORDERFOOD.DAL.Interface.csproj": {
+              "projectPath": "C:\\Users\\USER\\Source\\Repos\\ProjectBlogFood\\ODERFOODAPI\\ORDERFOOD.DAL.Interface\\ORDERFOOD.DAL.Interface.csproj"
             }
           }
         }
@@ -624,6 +625,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Dapper": {
             "target": "Package",
@@ -649,7 +651,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

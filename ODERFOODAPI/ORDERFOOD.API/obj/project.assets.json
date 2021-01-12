@@ -829,11 +829,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ODERFOODAPI\\ORDERFOOD.API\\ORDERFOOD.API.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\ODERFOODAPI\\ORDERFOOD.API\\ORDERFOOD.API.csproj",
       "projectName": "ORDERFOOD.API",
-      "projectPath": "E:\\ODERFOODAPI\\ORDERFOOD.API\\ORDERFOOD.API.csproj",
+      "projectPath": "C:\\Users\\USER\\source\\repos\\ODERFOODAPI\\ORDERFOOD.API\\ORDERFOOD.API.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "E:\\ODERFOODAPI\\ORDERFOOD.API\\obj\\",
+      "outputPath": "C:\\Users\\USER\\source\\repos\\ODERFOODAPI\\ORDERFOOD.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -848,15 +848,16 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\ODERFOODAPI\\ORDERFOOD.BAL.Interface\\ORDERFOOD.BAL.Interface.csproj": {
-              "projectPath": "E:\\ODERFOODAPI\\ORDERFOOD.BAL.Interface\\ORDERFOOD.BAL.Interface.csproj"
+            "C:\\Users\\USER\\source\\repos\\ODERFOODAPI\\ORDERFOOD.BAL.Interface\\ORDERFOOD.BAL.Interface.csproj": {
+              "projectPath": "C:\\Users\\USER\\source\\repos\\ODERFOODAPI\\ORDERFOOD.BAL.Interface\\ORDERFOOD.BAL.Interface.csproj"
             },
-            "E:\\ODERFOODAPI\\ORDERFOOD.BAL\\ORDERFOOD.BAL.csproj": {
-              "projectPath": "E:\\ODERFOODAPI\\ORDERFOOD.BAL\\ORDERFOOD.BAL.csproj"
+            "C:\\Users\\USER\\source\\repos\\ODERFOODAPI\\ORDERFOOD.BAL\\ORDERFOOD.BAL.csproj": {
+              "projectPath": "C:\\Users\\USER\\source\\repos\\ODERFOODAPI\\ORDERFOOD.BAL\\ORDERFOOD.BAL.csproj"
             },
-            "E:\\ODERFOODAPI\\ORDERFOOD.DAL\\ORDERFOOD.DAL.csproj": {
-              "projectPath": "E:\\ODERFOODAPI\\ORDERFOOD.DAL\\ORDERFOOD.DAL.csproj"
+            "C:\\Users\\USER\\source\\repos\\ODERFOODAPI\\ORDERFOOD.DAL\\ORDERFOOD.DAL.csproj": {
+              "projectPath": "C:\\Users\\USER\\source\\repos\\ODERFOODAPI\\ORDERFOOD.DAL\\ORDERFOOD.DAL.csproj"
             }
           }
         }
@@ -869,6 +870,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Swashbuckle.AspNetCore": {
             "target": "Package",
@@ -893,7 +895,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
